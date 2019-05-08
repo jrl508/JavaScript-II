@@ -1,6 +1,10 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
-
+const noWorries = 'Hakuna Matata';
+function lK () {
+  return noWorries;
+}
+console.log(lK());
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
